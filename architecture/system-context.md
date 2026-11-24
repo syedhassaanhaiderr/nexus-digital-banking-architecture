@@ -88,9 +88,15 @@ This context description primarily supports:
 
 It also provides context for evaluating security, availability, performance, and data integrity in subsequent architecture views.
 
-## 7. Diagram Status
+## 7. C4 System Context Diagram
 
-A C4 System Context diagram will be developed after the system boundary and external interactions have been reviewed.
+The following diagram illustrates the NEXUS system boundary, external actors, external systems, and their high-level interactions with the platform.
+
+![NEXUS C4 System Context Diagram](../diagrams/context/nexus-system-context.svg)
+
+*Figure 1: NEXUS C4 System Context Diagram*
+
+[View editable diagram source](../diagrams/context/nexus-system-context.drawio)
 
 ## 8. Assumptions
 
